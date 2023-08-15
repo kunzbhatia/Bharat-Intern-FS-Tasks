@@ -1,5 +1,4 @@
 # Bharat-Intern-Blog-App
-
 **Wordsverse: Unveiling Minds and Moments (Content Management Tool-Blog Website)**
 
 Welcome to WordsVerse, a captivating online platform where stories transform into captivating verses, minds connect through shared experiences, and moments unfold in a tapestry of words. Built using the cutting-edge MERN (MongoDB, Express, React, Node.js) stack, our website offers a seamless and immersive reading experience like no other.
