@@ -1,5 +1,6 @@
 # Bharat-Intern-Video-Conferencing-App
 **CosmoMeet: Connecting Worlds, Empowering Business (Video Conferencing Website)**
+
 Introducing CosmoMeet: Connecting Worlds, Empowering Business
 
 Welcome to CosmoMeet, the cutting-edge video conferencing platform that bridges the gap between global interactions and seamless business collaborations. With the fusion of REACT.JS, Next.js, Tailwind CSS, HTML, and JavaScript, and powered by the ZEGOCLOUD WebRTC platform, CosmoMeet revolutionizes the way you connect and communicate.
