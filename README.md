@@ -1,7 +1,7 @@
 ## CosmoConnect: Connecting Worlds, Empowering Business (Video Conferencing Website)
 Introducing CosmoConnect: Connecting Worlds, Empowering Business
 
-## Please Open CosmoConnect folder to run the project which is a react app build.*
+## Please Open CosmoConnect folder to run the project which is a react app build
 
 Welcome to CosmoConnect, the cutting-edge video conferencing platform that bridges the gap between global interactions and seamless business collaborations. With the fusion of REACT.JS, Next.js, Tailwind CSS, HTML, and JavaScript, and powered by the ZEGOCLOUD WebRTC platform, CosmoConnect revolutionizes the way you connect and communicate.
 
