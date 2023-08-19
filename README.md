@@ -1,16 +1,70 @@
-# Bharat-Intern-Video-Conferencing-App
-**CosmoMeet: Connecting Worlds, Empowering Business (Video Conferencing Website)**
+# Getting Started with Create React App
 
-Introducing CosmoMeet: Connecting Worlds, Empowering Business
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Welcome to CosmoMeet, the cutting-edge video conferencing platform that bridges the gap between global interactions and seamless business collaborations. With the fusion of REACT.JS, Next.js, Tailwind CSS, HTML, and JavaScript, and powered by the ZEGOCLOUD WebRTC platform, CosmoMeet revolutionizes the way you connect and communicate.
+## Available Scripts
 
-🌐 Connecting Worlds: Embark on a journey that transcends geographical boundaries. CosmoMeet brings individuals, teams, and organizations from around the world together in a virtual space where physical distances disappear. Connect with colleagues, partners, and clients effortlessly, as if they were right there with you.
+In the project directory, you can run:
 
-💼 Empowering Business: CosmoMeet understands the importance of business dynamics. Whether you're a startup or an enterprise, CosmoMeet provides you with the tools to collaborate, negotiate, and innovate. Seamlessly transition from discussions to deals, brainstorming to breakthroughs, and presentations to partnerships.
+### `npm start`
 
-🔗 Flawless Integration: Built with the latest web technologies, CosmoMeet boasts a dynamic interface developed using REACT.JS and Next.js for unparalleled user experiences. Tailwind CSS ensures a sleek and responsive design, adapting seamlessly to various devices and screen sizes. The underlying HTML and JavaScript backbone guarantee a smooth and intuitive navigation flow.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-🌐 ZEGOCLOUD WebRTC Platform: CosmoMeet's backbone is powered by ZEGOCLOUD, a robust and reliable WebRTC platform. This technology ensures secure, real-time audio and video communication, fostering crystal-clear connections and interactions. And here's the icing on the cake: CosmoMeet offers 10,000 free minutes every month, empowering you to hold free live video chats effortlessly.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-🥰Join the CosmoMeet Journey: Join us on CosmoMeet to experience a new era of video conferencing where every interaction is a step toward a global, interconnected future. Register now and explore the limitless possibilities of virtual collaboration. CosmoMeet: Where Connecting Worlds and Empowering Business is just a click away. Start your journey today.
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
