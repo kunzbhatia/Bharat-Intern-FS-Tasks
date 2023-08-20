@@ -19,5 +19,3 @@ CosmoConnect's backbone is powered by ZEGOCLOUD, a robust and reliable WebRTC pl
 
 **🥰Join the CosmoConnect Journey:**
 Join us on CosmoConnect to experience a new era of video conferencing where every interaction is a step toward a global, interconnected future. Register now and explore the limitless possibilities of virtual collaboration. CosmoConnect: Where Connecting Worlds and Empowering Business is just a click away. Start your journey today.
-
-## Make sure to add ZegoCloud AppID and ServerSecret code of your account's project in the empty space const of Room.js file to make project work
