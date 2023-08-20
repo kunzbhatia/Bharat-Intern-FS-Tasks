@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Make sure to add ZegoCloud AppID and SecretServer code of yout account in the empty space const of Room.js file to make project work
+# Make sure to add ZegoCloud AppID and ServerSecret code of your account's project in the empty space const of Room.js file to make project work
 ## Available Scripts
 
 In the project directory, you can run:
