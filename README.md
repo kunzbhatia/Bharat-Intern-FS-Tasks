@@ -16,5 +16,3 @@ At WordsVerse, we believe that every individual has a story worth sharing. Wheth
 **😊Seamless Experience, Delightful Reading:**
 With the power of the MERN stack, our website ensures a smooth and efficient user experience. The dynamic and interactive nature of React enhances your engagement, while the backend stability of Node.js and Express guarantees a hassle-free browsing experience. MongoDB, the backbone of our database, ensures that your favorite stories and cherished moments are always at your fingertips.
 
-**🥰Join the WordsVerse Journey:**
-Embark on a journey of self-discovery, connection, and inspiration. Whether you're here to read, reflect, or contribute, WordsVerse is your canvas to express, explore, and elevate the beauty of human storytelling. Welcome to a world where words come to life, hearts connect, and moments are immortalized in the verses that bind us together.
